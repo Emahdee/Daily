@@ -1,6 +1,6 @@
  #Logs- for logs
 logs - edited today
-*.log
+*.log - 28th April
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
