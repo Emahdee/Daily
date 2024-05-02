@@ -3,7 +3,7 @@ logs - edited today
 *.log - 28th April
 npm-debug.log* - 29th April
 yarn-debug.log* - 30th April
-yarn-error.log*
+yarn-error.log* - 2nd May
 lerna-debug.log*
 
 # Diagnostic reports (https://nodejs.org/api/report.html)
