@@ -10,7 +10,7 @@ lerna-debug.log* - 3rd May
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json - 6th May
 7th May
 # Runtime data - 8th May
-pids
+pids - 9th 
 *.pid
 *.seed
 *.pid.lock
