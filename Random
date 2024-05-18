@@ -19,7 +19,7 @@ pids - 9th
 lib-cov - 15th May
 16th May
 # Coverage directory used by tools like Istanbul - 17th May
-coverage
+coverage - 18th May
 *.lcov
 
 # nyc test coverage
