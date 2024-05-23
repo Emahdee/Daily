@@ -23,7 +23,7 @@ coverage - 18th May
 *.lcov - 19th May
 20th May
 # nyc test coverage - 21st May
-.nyc_output
+.nyc_output - 23rd May
 
 # Grunt intermediate storage (https://gruntjs.com/creating-plugins#storing-task-files)
 .grunt
