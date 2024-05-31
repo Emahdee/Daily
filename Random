@@ -31,7 +31,7 @@ coverage - 18th May
 # Bower dependency directory (https://bower.io/) - 28th May
 bower_components - 29th May
 30th May
-# node-waf configuration
+# node-waf configuration - 31st May
 .lock-wscript
 
 # Compiled binary addons (https://nodejs.org/api/addons.html)
