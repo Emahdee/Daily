@@ -32,7 +32,7 @@ coverage - 18th May
 bower_components - 29th May
 30th May
 # node-waf configuration - 31st May
-.lock-wscript
+.lock-wscript - 1st June
 
 # Compiled binary addons (https://nodejs.org/api/addons.html)
 build/Release
