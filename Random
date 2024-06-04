@@ -35,7 +35,7 @@ bower_components - 29th May
 .lock-wscript - 1st June
 2nd June
 # Compiled binary addons (https://nodejs.org/api/addons.html) - 3rd May
-build/Release
+build/Release - 4th May
 
 # Dependency directories
 node_modules/
