@@ -42,7 +42,7 @@ node_modules/ - 7th May
 jspm_packages/ - 8th May
 9th May
 # TypeScript v1 declaration files - 10th May
-typing/
+typing/ - 11th June
 
 # TypeScript cache
 *.tsbuildinfo
