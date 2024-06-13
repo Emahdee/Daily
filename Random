@@ -44,7 +44,7 @@ jspm_packages/ - 8th May
 # TypeScript v1 declaration files - 10th May
 typing/ - 11th June
 12th June
-# TypeScript cache
+# TypeScript cache - 13th June
 *.tsbuildinfo
 
 # Optional npm cache directory
