@@ -45,7 +45,7 @@ jspm_packages/ - 8th May
 typing/ - 11th June
 12th June
 # TypeScript cache - 13th June
-*.tsbuildinfo
+*.tsbuildinfo - 14th June
 
 # Optional npm cache directory
 .npm
