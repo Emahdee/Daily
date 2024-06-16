@@ -47,7 +47,7 @@ typing/ - 11th June
 # TypeScript cache - 13th June
 *.tsbuildinfo - 14th June
 15th June
-# Optional npm cache directory
+# Optional npm cache directory - 16th June
 .npm
 
 # Optional eslint cache
