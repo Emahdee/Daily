@@ -50,7 +50,7 @@ typing/ - 11th June
 # Optional npm cache directory - 16th June
 .npm - 17th June
 18th June
-# Optional eslint cache
+# Optional eslint cache - 19th June
 .eslintcache
 
 # Microbundle cache
