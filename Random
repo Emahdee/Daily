@@ -57,7 +57,7 @@ typing/ - 11th June
 .rpt2_cache/ - 23rd June
 .rts2_cache_cjs/ - 24th June
 .rts2_cache_es/ - 25th June
-.rts2_cache_umd/
+.rts2_cache_umd - 26th June
 
 # Optional REPL history
 .node_repl_history
