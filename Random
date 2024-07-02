@@ -63,7 +63,7 @@ typing/ - 11th June
 .node_repl_history 29th June
 30th June
 # Output of 'npm pack' - 1st July
-*.tgz
+*.tgz - 2nd July
 
 # Yarn Integrity file
 .yarn-integrity
