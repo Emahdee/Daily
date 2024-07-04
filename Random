@@ -65,7 +65,7 @@ typing/ - 11th June
 # Output of 'npm pack' - 1st July
 *.tgz - 2nd July
 3rd July
-# Yarn Integrity file
+# Yarn Integrity file - 4th July
 .yarn-integrity
 
 # dotenv environment variables file
