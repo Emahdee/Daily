@@ -66,7 +66,7 @@ typing/ - 11th June
 *.tgz - 2nd July
 3rd July
 # Yarn Integrity file - 4th July
-.yarn-integrity
+.yarn-integrity - 5th July
 
 # dotenv environment variables file
 .env
