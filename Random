@@ -68,7 +68,7 @@ typing/ - 11th June
 # Yarn Integrity file - 4th July
 .yarn-integrity - 5th July
 6th July
-# dotenv environment variables file
+# dotenv environment variables file - 7th July
 .env
 .env.test
 
