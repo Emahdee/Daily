@@ -69,7 +69,7 @@ typing/ - 11th June
 .yarn-integrity - 5th July
 6th July
 # dotenv environment variables file - 7th July
-.env
+.env - 8th July
 .env.test
 
 # parcel-bundler cache (https://parceljs.org/)
