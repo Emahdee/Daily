@@ -73,7 +73,7 @@ typing/ - 11th June
 .env.test - 9th july
 10th July
 # parcel-bundler cache (https://parceljs.org/) - 11th July
-.cache
+.cache - 12th July
 
 # Next.js build output
 .next
