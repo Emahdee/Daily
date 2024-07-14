@@ -75,7 +75,7 @@ typing/ - 11th June
 # parcel-bundler cache (https://parceljs.org/) - 11th July
 .cache - 12th July
 13th July
-# Next.js build output
+# Next.js build output - 14th July
 .next
 
 # Nuxt.js build / generate output
