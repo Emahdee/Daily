@@ -87,7 +87,7 @@ dist - 19th July
 # Comment in the public line in if your project uses Gatsby and *not* Next.js - 23rd July
 # https://nextjs.org/blog/next-9-1#public-directory-support - 24th July
 # public - 25th July
-
+26th July
 # vuepress build output
 .vuepress/dist
 
