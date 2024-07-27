@@ -88,7 +88,7 @@ dist - 19th July
 # https://nextjs.org/blog/next-9-1#public-directory-support - 24th July
 # public - 25th July
 26th July
-# vuepress build output
+# vuepress build output - 27th July
 .vuepress/dist
 
 # Serverless directories
