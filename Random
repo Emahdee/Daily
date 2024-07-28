@@ -89,7 +89,7 @@ dist - 19th July
 # public - 25th July
 26th July
 # vuepress build output - 27th July
-.vuepress/dist
+.vuepress/dist - 28th July
 
 # Serverless directories
 .serverless/
