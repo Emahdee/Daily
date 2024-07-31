@@ -92,7 +92,7 @@ dist - 19th July
 .vuepress/dist - 28th July
 29th July
 # Serverless directories - 30th July
-.serverless/
+.serverless/ 31st July
 
 # FuseBox cache
 .fusebox/
