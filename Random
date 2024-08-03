@@ -95,7 +95,7 @@ dist - 19th July
 .serverless/ 31st July
 1st August
 # FuseBox cache - 2nd August
-.fusebox/
+.fusebox/ - 3rd August
 
 # DynamoDB Local files
 .dynamodb/
