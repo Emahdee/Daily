@@ -97,7 +97,7 @@ dist - 19th July
 # FuseBox cache - 2nd August
 .fusebox/ - 3rd August
 4th August
-# DynamoDB Local files
+# DynamoDB Local files - 5th August
 .dynamodb/
 
 # TernJS port file
