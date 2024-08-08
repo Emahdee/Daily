@@ -100,7 +100,7 @@ dist - 19th July
 # DynamoDB Local files - 5th August
 .dynamodb/ - 6th August
 7th August
-# TernJS port file
+# TernJS port filec - 8th August
 .tern-port
 
 # macOS
