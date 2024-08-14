@@ -106,7 +106,7 @@ dist - 19th July
 # macOS - 11th August
 .DS_Store - 12th August
 13th August
-# python
+# python - 14th August
 pycache/
 
 # Ignore .husky for new contributors using lefthook while maintaining
