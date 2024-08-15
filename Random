@@ -107,7 +107,7 @@ dist - 19th July
 .DS_Store - 12th August
 13th August
 # python - 14th August
-pycache/
+pycache/ - 15th August 
 
 # Ignore .husky for new contributors using lefthook while maintaining
 # backwards compatibility for past contributors
