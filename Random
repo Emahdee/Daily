@@ -108,7 +108,7 @@ dist - 19th July
 13th August
 # python - 14th August
 pycache/ - 15th August 
-
+16th August
 # Ignore .husky for new contributors using lefthook while maintaining
 # backwards compatibility for past contributors
 .husky
