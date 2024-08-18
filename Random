@@ -110,7 +110,7 @@ dist - 19th July
 pycache/ - 15th August 
 16th August
 # Ignore .husky for new contributors using lefthook while maintaining - 17th August
-# backwards compatibility for past contributors
+# backwards compatibility for past contributors - 18th August
 .husky
 
 
