@@ -112,7 +112,7 @@ pycache/ - 15th August
 # Ignore .husky for new contributors using lefthook while maintaining - 17th August
 # backwards compatibility for past contributors - 18th August
 .husky - 19th August
-
+20th August
 
 # VSCode
 .vscode/launch.json
