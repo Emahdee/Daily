@@ -116,5 +116,5 @@ pycache/ - 15th August
 21th August
 # VSCode - 22nd August
 .vscode/launch.json - 23rd August
-packages/protocol/config.js
+packages/protocol/config.js - 24th August
 .vercel
